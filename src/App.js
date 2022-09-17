@@ -12,12 +12,12 @@ function App() {
     <>
     <ParallaxProvider>
       <Navbar/>
-       <Hero/>
+      <Hero/>
       <Promo/>
       <Reviews/>
       <Banner/>
       <Menu/>
-      {/*<Footer/> */}
+      <Footer/>
       </ParallaxProvider>
     </>
     );
