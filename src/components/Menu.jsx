@@ -5,12 +5,12 @@ import menu3 from "../assets/menu3.jpg"
 
 function Menu() {
     return (
-        <div name="menu" className="w-full pt-24 bg-[#212122] pb-[100px] px-8 md:px-16">
+        <div className="w-full pt-24 bg-[#212122] pb-[100px] px-8 md:px-16">
             <div className="max-w-[1240px] mx-auto relative">
                 <div className="px-4 py-6">
-                    <h3 className="text-7xl  font-semibold text-center text-[#ba8107]">our new menu</h3>
+                    <h3 className="text-7xl  font-semibold text-center text-[#ba8107]">OUR MENU</h3>
                 </div>
-                <div className="grid grid-cols-1 tab:grid-cols-3 relative gap-x-12 tab:gab-x-4 lg:gap-x-12 gap-y-16 px-4 md:px-1 lg:px-4 pt-12 sm:pt-20">
+                <div name="menu" className="grid grid-cols-1 tab:grid-cols-3 relative gap-x-12 tab:gab-x-4 lg:gap-x-12 gap-y-16 px-4 md:px-1 lg:px-4 pt-12 sm:pt-20">
                     <Fade left>
                         <div className="bg-[#353630] shadow-2xl rounded-[10px]">
                             <div className="flex flex-col h-full">

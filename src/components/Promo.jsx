@@ -20,7 +20,7 @@ function Promo() {
           </div>
           <Fade delay={1000}>
             <p className="text-[#bf9d53]">
-              Vaying the roasting time has a significant effect on the flavor, aroma, and color the brewed coffee. Althougth there are several levels of roasting. They can be grouped into three main categories: light, medium, and dark.
+              Varying the roasting time has a significant effect on the flavor, aroma, and color the brewed coffee. Althougth there are several levels of roasting. They can be grouped into three main categories: light, medium, and dark.
             </p>
           </Fade>
         </div>

@@ -1,7 +1,6 @@
 import { Fade, Zoom } from "react-reveal"
 import rev_bg from "../assets/rev-bg.png"
 import quote from "../assets/quote.png"
-import pro from "../assets/serv-3.png"
 import star from "../assets/star.png"
 
 function Reviews() {
@@ -21,7 +20,6 @@ function Reviews() {
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
                         <p className="text-4xl font-bold text-[#ba8107]"> Neneng jebred</p>
-                        <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
                     <p className="text-[#bf9d53] pt-6">
                       mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
@@ -40,7 +38,6 @@ function Reviews() {
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
                         <p className="text-4xl font-bold text-[#ba8107]">Ujang baud</p>
-                        <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
                     <p className="text-[#bf9d53] pt-6">
                     mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
@@ -59,7 +56,6 @@ function Reviews() {
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
                         <p className="text-4xl font-bold text-[#ba8107]">Aceng kiceup</p>
-                        <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
                     <p className="text-[#bf9d53] pt-6">
                     mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
