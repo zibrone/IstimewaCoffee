@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/IstimewaCoffee/static/css/main.e235c2c0.css",
-    "main.js": "/IstimewaCoffee/static/js/main.134e2209.js",
+    "main.css": "/IstimewaCoffee/static/css/main.1ad9df3b.css",
+    "main.js": "/IstimewaCoffee/static/js/main.0ffa5bca.js",
     "static/media/menu2.jpg": "/IstimewaCoffee/static/media/menu2.8980b2b8cdfd5e4a0332.jpg",
-    "static/media/serv-3.png": "/IstimewaCoffee/static/media/serv-3.a7f56bac5df3752e6bcb.png",
     "static/media/menu3.jpg": "/IstimewaCoffee/static/media/menu3.a13a7d48d7d6fc58b9c3.jpg",
     "static/media/promo.png": "/IstimewaCoffee/static/media/promo.12318b6da5e57022e7eb.png",
     "static/media/rev-bg.png": "/IstimewaCoffee/static/media/rev-bg.c4daa3d4819d2a03e85e.png",
@@ -12,11 +11,11 @@
     "static/media/menu1.jpg": "/IstimewaCoffee/static/media/menu1.f02baa467c70707c760b.jpg",
     "static/media/star.png": "/IstimewaCoffee/static/media/star.aa97ee559ad3b7555cd6.png",
     "index.html": "/IstimewaCoffee/index.html",
-    "main.e235c2c0.css.map": "/IstimewaCoffee/static/css/main.e235c2c0.css.map",
-    "main.134e2209.js.map": "/IstimewaCoffee/static/js/main.134e2209.js.map"
+    "main.1ad9df3b.css.map": "/IstimewaCoffee/static/css/main.1ad9df3b.css.map",
+    "main.0ffa5bca.js.map": "/IstimewaCoffee/static/js/main.0ffa5bca.js.map"
   },
   "entrypoints": [
-    "static/css/main.e235c2c0.css",
-    "static/js/main.134e2209.js"
+    "static/css/main.1ad9df3b.css",
+    "static/js/main.0ffa5bca.js"
   ]
 }
