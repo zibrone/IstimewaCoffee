@@ -20,10 +20,12 @@ function Reviews() {
                 <div className="p-8 rounded-xl drop-shadow-2xl border border-[#ffffff2e] bg-[#212122] relative min-w-[270px]">
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
-                        <p className="text-4xl font-bold text-[#ba8107]">chaplin</p>
+                        <p className="text-4xl font-bold text-[#ba8107]"> Neneng jebred</p>
                         <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
-                    <p className="text-[#bf9d53] pt-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequatur ratione quos, inventore rem asperiores sunt tempore aliquam fugit itaque??</p>
+                    <p className="text-[#bf9d53] pt-6">
+                      mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
+                    </p>
                     <div className="flex gap-[15px] w-[50%] mx-auto justify-around pt-[20px]">
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />
@@ -37,10 +39,12 @@ function Reviews() {
             <div className="p-8 rounded-xl drop-shadow-2xl border border-[#ffffff2e] bg-[#212122] relative min-w-[270px]">
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
-                        <p className="text-4xl font-bold text-[#ba8107]">ganteng</p>
+                        <p className="text-4xl font-bold text-[#ba8107]">Ujang baud</p>
                         <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
-                    <p className="text-[#bf9d53] pt-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequatur ratione quos, inventore rem asperiores sunt tempore aliquam fugit itaque??</p>
+                    <p className="text-[#bf9d53] pt-6">
+                    mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
+                    </p>
                     <div className="flex gap-[15px] w-[50%] mx-auto justify-around pt-[20px]">
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />
@@ -54,10 +58,12 @@ function Reviews() {
             <div className="p-8 rounded-xl drop-shadow-2xl border border-[#ffffff2e] bg-[#212122] relative min-w-[270px]">
                     <img className="h-[30px] w-[30px] absolute top-[20px] left-[20px]" src={quote}/>
                     <div className="flex items-center gap-[20px] justify-center">
-                        <p className="text-4xl font-bold text-[#ba8107]">pisan</p>
+                        <p className="text-4xl font-bold text-[#ba8107]">Aceng kiceup</p>
                         <img className="h-[30px] w-[30px] " src={pro} alt=""/>
                     </div>
-                    <p className="text-[#bf9d53] pt-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequatur ratione quos, inventore rem asperiores sunt tempore aliquam fugit itaque??</p>
+                    <p className="text-[#bf9d53] pt-6">
+                    mantap pokonamah aroma jeung rasa tiap varian teh gaduh karakter na masing-masing
+                    </p>
                     <div className="flex gap-[15px] w-[50%] mx-auto justify-around pt-[20px]">
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />
                         <img className="h-[30px] w-[30px] sepia" src={star} alt="/" />

@@ -18,8 +18,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu1}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]"> arabica robusta</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Espresso coffee beans dengan komposisi 30% robusta dan 70% arabica. </p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">ARABICA ROBUSTA</h3>
+                                    <p className="text-[#bf9d53] w-full">Espresso coffee beans dengan komposisi 30% robusta dan 70% arabica. </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>
@@ -31,8 +32,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu2}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">Honey single origin</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores nobis iure qui dolor saepe.</p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">HONEY SINGLE ORIGIN</h3>
+                                    <p className="text-[#bf9d53] w-full">Biji kopi berkualitas diracik dan melalui quality control yang apik menghasilkan produk kopi bermutu </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>
@@ -44,8 +46,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu3}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">natural extended anaerob</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores nobis iure qui dolor saepe.</p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">NATURAL EXTENDED ANAEROB</h3>
+                                    <p className="text-[#bf9d53] w-full">Biji kopi berkualitas diracik dan melalui quality control yang apik menghasilkan produk kopi bermutu </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>
@@ -57,8 +60,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu1}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">Natural single origin</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores nobis iure qui dolor saepe.</p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">NATURAL SINGLE ORIGIN</h3>
+                                    <p className="text-[#bf9d53] w-full">Biji kopi berkualitas diracik dan melalui quality control yang apik menghasilkan produk kopi bermutu </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>
@@ -70,8 +74,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu2}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">Red honey single origin</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores nobis iure qui dolor saepe.</p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">RED HONEY SINGLE ORIGIN</h3>
+                                    <p className="text-[#bf9d53] w-full">Biji kopi berkualitas diracik dan melalui quality control yang apik menghasilkan produk kopi bermutu </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>
@@ -83,8 +88,9 @@ function Menu() {
                                     <img className="w-full h-full rounded-t-[10px] object-cover brightness-75" src={menu3}/>
                                 </div>
                                 <div className="p-4 md:p-8">
-                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">Robusta Temanggung</h3>
-                                    <p className="text-[#bf9d53] lg:text-l w-full">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores nobis iure qui dolor saepe.</p>
+                                    <h3 className="font-bold text-center text-2xl mb-6 text-[#ba8107]">ROBUSTA TEMANGGUNG</h3>
+                                    <p className="text-[#bf9d53] w-full">Biji kopi berkualitas diracik dan melalui quality control yang apik menghasilkan produk kopi bermutu </p>
+                                    <p className="font-bold text-center text-lg mt-[10] text-[#ba8107]"> Rp. xxx.xxx</p>
                                 </div>
                             </div>
                         </div>

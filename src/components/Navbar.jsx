@@ -23,10 +23,10 @@ function Navbar() {
             <Link to="menu" smooth={true} offset={0} duration={500}>MENU</Link>
         </li>
         <li className="cursor-pointer hover:opacity-[0.7] p-0">
-            <Link to="footer" smooth={true} offset={0} duration={500}>EVENTS</Link>
+            <Link to="promo" smooth={true} offset={0} duration={500}>ABOUT</Link>
         </li>
         <li className="cursor-pointer hover:opacity-[0.7] p-0">
-            <Link to="menu" smooth={true} offset={-100} duration={500}>CONTACT</Link>
+            <Link to="footer" smooth={true} offset={-100} duration={500}>CONTACT</Link>
         </li>
         </ul>
         {isDesktop ? null : (<div className="absolute z-30" onClick={handleClick}>
@@ -37,7 +37,7 @@ function Navbar() {
       {isDesktop ? null : (<div className={!nav ? "hidden" : "flex flex-col gap-[10px] text-center font-semibold text-[30px] w-screen h-screen absolute top-0 p-[20px] pt-[80px] bg-[#000000f7] z-20"}>
         <Link to="home" smooth={true} duration={500}>HOME</Link>
         <Link className="w-full cursor-pointer hover:opacity-[0.7]" onClick={handleClose} to="menu" smooth={true} offset={0} duration={500}>MENU</Link>
-        <Link className="w-full cursor-pointer hover:opacity-[0.7]" onClick={handleClose} to="footer" smooth={true} offset={0} duration={500}>EVENTS</Link>
+        <Link className="w-full cursor-pointer hover:opacity-[0.7]" onClick={handleClose} to="promo" smooth={true} offset={0} duration={500}>PROMO</Link>
         <Link className="w-full cursor-pointer hover:opacity-[0.7]" onClick={handleClose} to="footer" smooth={true} offset={-100} duration={500}>CONTACT</Link>
       </div>
       )}

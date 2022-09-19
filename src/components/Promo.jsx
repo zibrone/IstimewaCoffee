@@ -13,20 +13,14 @@ function Promo() {
         <div className="flex flex-col gap-[50px] justify-center text-center md:text-left">
           <div classname="flex flex-col gap-[10px]">
             <Fade left>
-              <h1 className="text-[20px] font-semibold text-[#ba8107]">
-                DOLOREM, IN ILLO!
-              </h1>
               <h1 className="text-[50px] md:text-[50px] font-semibold text-[#ba8107] leading-none">
-                Lorem ipsum dolor sit.
+                COFFEE CULTURE
               </h1>
             </Fade>
           </div>
           <Fade delay={1000}>
             <p className="text-[#bf9d53]">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni
-              corporis atque autem doloribus nulla, vel sint. Quos ea fuga
-              blanditiis, possimus quae dicta beatae dignissimos consequatur?
-              Animi necessitatibus quos doloremque?
+              Vaying the roasting time has a significant effect on the flavor, aroma, and color the brewed coffee. Althougth there are several levels of roasting. They can be grouped into three main categories: light, medium, and dark.
             </p>
           </Fade>
         </div>
